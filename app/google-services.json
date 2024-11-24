@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "819960563338",
+    "firebase_url": "https://nodabba-79562-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nodabba-79562",
+    "storage_bucket": "nodabba-79562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819960563338:android:0b3c4ea9dedabd219dcf73",
+        "android_client_info": {
+          "package_name": "com.univnest.nodabba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9NS7lduorQGOZcUsmW9WUpx7xLRhz_sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

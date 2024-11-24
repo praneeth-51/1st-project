@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/dashboard"
+            android:title="@string/title_dashboard"
+            android:icon="@drawable/baseline_dashboard_24"/>
+        <item
+            android:id="@+id/premium"
+            android:title="@string/premium"
+            android:icon="@drawable/baseline_subscriptions_24"/>
+    </group>
+
+    <group
+        android:id="@+id/group2">
+        <item
+            android:id="@+id/my_task"
+            android:title="@string/documents"
+            android:icon="@drawable/baseline_task_24"/>
+        <item
+            android:id="@+id/add_account"
+            android:title="@string/add_account"
+            android:icon="@drawable/baseline_add_24"/>
+    </group>
+
+
+
+    <group
+        android:id="@+id/group3">
+        <item
+            android:id="@+id/settings"
+            android:title="@string/settings"
+            android:icon="@drawable/baseline_settings_24"/>
+
+        <item
+            android:id="@+id/terms_and_conditions"
+            android:title="@string/terms_conditions"
+            android:icon="@drawable/baseline_info_24"/>
+    </group>
+
+    <group
+        android:id="@+id/group4">
+        <item
+            android:id="@+id/contact_us"
+            android:title="@string/contact_us"
+            android:icon="@drawable/baseline_contact_support_24"/>
+
+        <item
+            android:id="@+id/logout"
+            android:title="@string/logout"
+            android:icon="@drawable/baseline_exit_to_app_24"/>
+
+
+    </group>
+
+
+</menu>
